@@ -1,0 +1,19 @@
+{
+    "name": "rnr/laravel-logger-mock",
+    "description": "Mock for laravel logger interface to handle log messages in test",
+    "type": "library",
+    "version": "0.1",
+    "require": {
+        "laravel/framework": "~5.1"
+    },
+    "require-dev": {
+        "orchestra/testbench": "~3.1",
+        "phpunit/phpunit": "~5.6"
+    },
+    "authors": [
+        {
+            "name": "Sergei Melnikov",
+            "email": "me@rnr.name"
+        }
+    ]
+}
